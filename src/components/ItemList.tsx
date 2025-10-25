@@ -1,4 +1,3 @@
-// src/components/ItemList.tsx
 import { useState, useEffect } from "react";
 import { Link } from "react-router-dom";
 import apiClient from "../api";
